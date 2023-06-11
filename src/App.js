@@ -1,7 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+const { Harmony } = require('@harmony-js/core');
+
 function App() {
+
   return (
     <div className="App">
       <header className="App-header">
